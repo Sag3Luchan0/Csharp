@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNovelOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NovelOfAuthor Title="Червона Шапочка" Year="1812">
+    <Author Name="Брати-Грімм" Surname="Якоб і Вільгельм" BirthYear="1785" />
+  </NovelOfAuthor>
+  <NovelOfAuthor Title="Попелюшка" Year="1812">
+    <Author Name="Брати-Грімм" Surname="Якоб і Вільгельм" BirthYear="1785" />
+  </NovelOfAuthor>
+  <NovelOfAuthor Title="Колобок" Year="1855">
+    <Author Name="Афанасій" Surname="Афанасьєвич" BirthYear="1826" />
+  </NovelOfAuthor>
+</ArrayOfNovelOfAuthor>

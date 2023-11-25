@@ -1,0 +1,12 @@
+C:\Users\Nikita\source\repos\Lab_4_6\Lab_4_6Lib\bin\Debug\net6.0\Lab_4_6Lib.deps.json
+C:\Users\Nikita\source\repos\Lab_4_6\Lab_4_6Lib\bin\Debug\net6.0\Lab_4_6Lib.dll
+C:\Users\Nikita\source\repos\Lab_4_6\Lab_4_6Lib\bin\Debug\net6.0\Lab_4_6Lib.pdb
+C:\Users\Nikita\source\repos\Lab_4_6\Lab_4_6Lib\obj\Debug\net6.0\Lab_4_6Lib.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\Lab_4_6\Lab_4_6Lib\obj\Debug\net6.0\Lab_4_6Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\Lab_4_6\Lab_4_6Lib\obj\Debug\net6.0\Lab_4_6Lib.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\Lab_4_6\Lab_4_6Lib\obj\Debug\net6.0\Lab_4_6Lib.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\Lab_4_6\Lab_4_6Lib\obj\Debug\net6.0\Lab_4_6Lib.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\Lab_4_6\Lab_4_6Lib\obj\Debug\net6.0\Lab_4_6Lib.dll
+C:\Users\Nikita\source\repos\Lab_4_6\Lab_4_6Lib\obj\Debug\net6.0\refint\Lab_4_6Lib.dll
+C:\Users\Nikita\source\repos\Lab_4_6\Lab_4_6Lib\obj\Debug\net6.0\Lab_4_6Lib.pdb
+C:\Users\Nikita\source\repos\Lab_4_6\Lab_4_6Lib\obj\Debug\net6.0\ref\Lab_4_6Lib.dll

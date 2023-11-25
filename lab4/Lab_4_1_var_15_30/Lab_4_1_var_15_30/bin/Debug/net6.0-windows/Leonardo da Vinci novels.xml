@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><ArrayOfArtwork xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Artwork Name = "Mona Lisa" Year = "2001" />
+<Artwork Name = "The Mystery of the Last Supper" Year = "1937" />
+<Artwork Name = "Vitruvian man" Year = "1990" />
+<Artwork Name = "Lady with lilies" Year = "2077" />
+<Artwork Name = "Woman with a swallow" Year = "1999" />
+</ArrayOfArtwork>

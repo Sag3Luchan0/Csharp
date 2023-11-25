@@ -1,0 +1,15 @@
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\obj\Debug\net6.0\Lab_2_6.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\obj\Debug\net6.0\Lab_2_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\obj\Debug\net6.0\Lab_2_6.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\obj\Debug\net6.0\Lab_2_6.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\obj\Debug\net6.0\Lab_2_6.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\bin\Debug\net6.0\Lab_2_6.exe
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\bin\Debug\net6.0\Lab_2_6.deps.json
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\bin\Debug\net6.0\Lab_2_6.runtimeconfig.json
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\bin\Debug\net6.0\Lab_2_6.dll
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\bin\Debug\net6.0\Lab_2_6.pdb
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\obj\Debug\net6.0\Lab_2_6.dll
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\obj\Debug\net6.0\refint\Lab_2_6.dll
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\obj\Debug\net6.0\Lab_2_6.pdb
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\obj\Debug\net6.0\Lab_2_6.genruntimeconfig.cache
+C:\Users\Nikita\source\repos\Lab_2_6\Lab_2_6\obj\Debug\net6.0\ref\Lab_2_6.dll
